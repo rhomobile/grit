@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.rubygems_version = '1.3.5'
 
-  s.name              = 'grit'
+  s.name              = 'rhomobile-grit'
   s.version           = '2.4.2'
   s.date              = '2011-04-28'
   s.rubyforge_project = 'grit'
